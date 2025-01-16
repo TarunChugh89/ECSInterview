@@ -59,7 +59,7 @@ public class BaseTest {
 	@AfterMethod
 	public void testMethodTearDown()
 	{
-		//DriverContext().quit();
+		DriverContext().quit();
 	}
 	
 	public WebDriver DriverContext()

@@ -27,7 +27,7 @@ public class ProductTest extends TestBase {
 			DatabaseOperation dop= new DatabaseOperation();
 			
 			String[] testCaseFile= {
-					"C:\\Eclipse\\Workspace\\ECSInterview\\src\\test\\resources\\TestData\\Test\\TestCase_019.json"
+					"C:\\Eclipse\\Workspace\\ECSInterview\\src\\test\\resources\\TestData\\Test\\TestCase_001.json"
 					};
 			String pricePath="C:\\Eclipse\\Workspace\\ECSInterview\\src\\test\\resources\\TestData\\Product_Price.json";
 			String zonePath="C:\\Eclipse\\Workspace\\ECSInterview\\src\\test\\resources\\TestData\\Zone_Charge.json";
