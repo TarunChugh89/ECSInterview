@@ -1,0 +1,46 @@
+{
+  "customer": {
+	"retailerID": "10005651",
+	"language": "English",
+	"loginID":"TestData17@ujcekxlk.mailosaur.net",
+	"password":"10005651",
+	"testCase": "TestCase_004_CanadaZone4_TripleHardware_DualBundle_DualService"
+  },
+  "products": [
+    {
+      "name": "Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 1,
+	  "appointment":false
+    },
+	{
+      "name": "Remote Installation Service",
+      "quantity": 2,
+	  "appointment":true
+    },
+	{
+      "name": "Onsite Installation Service",
+      "quantity": 2,
+	  "appointment":false
+    },
+	{
+      "name": "Remote Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 2,
+	  "appointment":true
+    },
+	 {
+      "name": "Onsite Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 2,
+	  "appointment":false
+    },
+	 {
+      "name": "Dell Monitor",
+      "quantity": 1,
+	  "appointment":false
+    },
+	 {
+      "name": "NUSCAN 2600U Adesso Barcode Scanner",
+      "quantity": 1,
+	  "appointment":false
+    }
+  ]
+}

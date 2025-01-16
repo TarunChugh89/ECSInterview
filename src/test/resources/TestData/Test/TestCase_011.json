@@ -1,0 +1,21 @@
+{
+  "customer": {
+					"retailerID": "10005058",
+	"language": "English",
+	"loginID":"TestData11@ujcekxlk.mailosaur.net",
+	"password":"10005058",
+	"testCase": "TestCase_011_USZone3_Remote+OnsiteInstallation"
+  },
+  "products": [
+    {
+      "name": "Onsite Installation Service",
+      "quantity": 2,
+	  "appointment":false
+    },
+	{
+      "name": "Remote Installation Service",
+      "quantity": 2,
+	  "appointment":true
+    }
+  ]
+}

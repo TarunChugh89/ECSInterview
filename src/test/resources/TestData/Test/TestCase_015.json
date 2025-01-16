@@ -1,0 +1,23 @@
+{
+  "customer": {
+		"retailerID": "10018311",
+	"language": "English",
+	"loginID":"TestData54@ujcekxlk.mailosaur.net",
+	"password":"10018311",
+	"testCase": "TestCase_002_CanadaZone2_Onsite+RemoteBundle"
+  },
+  "products": [
+    {
+      "name": "Remote Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 2,
+	  "appointment":true
+    },
+	{
+      "name": "Onsite Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 3,
+	  "appointment":false
+    },
+	
+	
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "customer": {
+	"retailerID": "10003949",
+	"language": "English",
+	"loginID":"TestData4@ujcekxlk.mailosaur.net",
+	"password":"10003949",
+	"testCase": "TestCase_004_US_OnsiteBundle"
+  },
+  "products": [
+    {
+      "name": "Onsite Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 3,
+	  "appointment":false
+    }
+  ]
+}

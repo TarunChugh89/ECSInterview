@@ -1,0 +1,28 @@
+{
+  "customer": {
+			"retailerID": "10003172",
+	"language": "English",
+	"loginID":"TestData8@ujcekxlk.mailosaur.net",
+	"password":"10003172",
+	"testCase": "TestCase_008_USZone2_DualHardware_RemoteBundle"
+  },
+  "products": [
+    {
+      "name": "Dell Monitor",
+      "quantity": 2,
+	  "appointment":false
+    },
+	{
+      "name": "Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 3,
+	  "appointment":false
+    },
+	{
+      "name": "Remote Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 1,
+	  "appointment":true
+    },
+	
+	
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "customer": {
+	"retailerID": "10003397",
+	"language": "English",
+	"loginID":"TestData1@ujcekxlk.mailosaur.net",
+	"password":"10003397",
+	"testCase": "TestCase_001_US_SingleHardware"
+  },
+  "products": [
+    {
+      "name": "Dell Monitor",
+      "quantity": 2,
+	  "appointment":false
+    }
+  ]
+}

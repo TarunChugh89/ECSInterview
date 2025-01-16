@@ -1,0 +1,16 @@
+{
+  "customer": {
+					"retailerID": "10013675",
+	"language": "English",
+	"loginID":"TestData50@ujcekxlk.mailosaur.net",
+	"password":"10013675",
+	"testCase": "TestCase_010_USZone3_OnsiteInstallation"
+  },
+  "products": [
+    {
+      "name": "Onsite Installation Service",
+      "quantity": 2,
+	  "appointment":false
+    }
+  ]
+}

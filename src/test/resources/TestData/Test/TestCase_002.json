@@ -1,0 +1,21 @@
+{
+  "customer": {
+		"retailerID": "10015623",
+	"language": "English",
+	"loginID":"TestData40@ujcekxlk.mailosaur.net",
+	"password":"10015623",
+	"testCase": "TestCase_002_US_DualHardware"
+  },
+  "products": [
+    {
+      "name": "Dell Monitor",
+      "quantity": 2,
+	  "appointment":false
+    },
+	{
+      "name": "Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 3,
+	  "appointment":false
+    }
+  ]
+}

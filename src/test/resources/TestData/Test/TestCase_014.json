@@ -1,0 +1,26 @@
+{
+  "customer": {
+	"retailerID": "10007523",
+	"language": "English",
+	"loginID":"TestData57@ujcekxlk.mailosaur.net",
+	"password":"10007523",
+	"testCase": "TestCase_001_Canada_TripleHardware"
+  },
+  "products": [
+    {
+      "name": "Dell Monitor",
+      "quantity": 2,
+	  "appointment":false
+    },
+	{
+      "name": "Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 3,
+	  "appointment":false
+    },
+	{
+      "name": "NUSCAN 2600U Adesso Barcode Scanner",
+      "quantity": 2,
+	  "appointment":false
+    }
+  ]
+}

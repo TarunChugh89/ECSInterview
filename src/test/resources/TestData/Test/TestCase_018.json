@@ -1,0 +1,46 @@
+{
+  "customer": {
+	"retailerID": "10012401",
+	"language": "English",
+	"loginID":"TestData52@ujcekxlk.mailosaur.net",
+	"password":"10012401",
+	"testCase": "TestCase_012_USZone4_TripleHardware_DualBundle_DualService"
+  },
+  "products": [
+    {
+      "name": "Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 200,
+	  "appointment":false
+    },
+	{
+      "name": "Remote Installation Service",
+      "quantity": 8,
+	  "appointment":true
+    },
+	{
+      "name": "Onsite Installation Service",
+      "quantity": 200,
+	  "appointment":false
+    },
+	{
+      "name": "Remote Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 8,
+	  "appointment":true
+    },
+	 {
+      "name": "Onsite Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 200,
+	  "appointment":false
+    },
+	 {
+      "name": "Dell Monitor",
+      "quantity": 200,
+	  "appointment":false
+    },
+	 {
+      "name": "Wasp WLR 8950 Barcode Scanner",
+      "quantity": 200,
+	  "appointment":false
+    }
+  ]
+}

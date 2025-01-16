@@ -1,0 +1,27 @@
+{
+  "customer": {
+		"retailerID": "10015235",
+	"language": "English",
+	"loginID":"TestData47@ujcekxlk.mailosaur.net",
+	"password":"10015235",
+	"testCase": "TestCase_003_US_TripleHardware"
+  },
+  "products": [
+    {
+      "name": "Dell Monitor",
+      "quantity": 2,
+	  "appointment":false
+    },
+	{
+      "name": "Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 3,
+	  "appointment":false
+    },
+	{
+      "name": "Wasp WLR 8950 Barcode Scanner",
+      "quantity": 2,
+	  "appointment":false
+    }
+	
+  ]
+}

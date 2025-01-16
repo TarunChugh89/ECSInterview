@@ -1,0 +1,28 @@
+{
+  "customer": {
+	"retailerID": "10019234",
+	"language": "English",
+	"loginID":"TestData49@ujcekxlk.mailosaur.net",
+	"password":"10019234",
+	"testCase": "TestCase_006_USZone2_DualHardware_OnsiteBundle"
+  },
+  "products": [
+    {
+      "name": "Dell Monitor",
+      "quantity": 1,
+	  "appointment":false
+    },
+	{
+      "name": "Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 2,
+	  "appointment":false
+    },
+	{
+      "name": "Onsite Installation Service + Dell OptiPlex Micro 7020 Bundle",
+      "quantity": 2,
+	  "appointment":false
+    },
+	
+	
+  ]
+}

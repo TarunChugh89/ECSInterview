@@ -1,0 +1,37 @@
+{
+  "price": {
+    "USA": {
+      "Dell Monitor": 128,
+      "Dell OptiPlex Micro 7020 Bundle": 656,
+      "Wasp WLR 8950 Barcode Scanner": 123,
+	  "Remote Installation Service": 75,
+	  "Onsite Installation Service": 154,
+	  "Onsite Installation Service + Dell OptiPlex Micro 7020 Bundle": 796,
+	  "Remote Installation Service + Dell OptiPlex Micro 7020 Bundle": 717,
+	  "Monitor Dell": 128,
+      "Escáner de código de barras Wasp WLR 8950": 123,
+      "Paquete Dell OptiPlex Micro 7020": 656,
+	  "Servicio de instalación en sitio": 154,
+      "Servicio de instalación remota": 75,
+      "servicio de instalación en el sitio + Paquete Dell OptiPlex Micro 7020": 796,
+	  "Servicio de instalación remota + Paquete Dell OptiPlex Micro 7020": 717
+	    
+    },
+    "CANADA": {
+      "Dell Monitor": 174,
+      "Dell OptiPlex Micro 7020 Bundle": 896,
+      "NUSCAN 2600U Adesso Barcode Scanner": 168,
+	  "Remote Installation Service": 102,
+	  "Onsite Installation Service": 157,
+	  "Onsite Installation Service + Dell OptiPlex Micro 7020 Bundle": 1033,
+	  "Remote Installation Service + Dell OptiPlex Micro 7020 Bundle": 978,
+	  "Monitor Dell": 174,
+      "Escáner de código de barras Wasp WLR 8950": 168,
+      "Paquete Dell OptiPlex Micro 7020": 896,
+	  "Servicio de instalación en sitio": 157,
+      "Servicio de instalación remota": 102,
+      "servicio de instalación en el sitio + Paquete Dell OptiPlex Micro 7020": 1033,
+	  "Servicio de instalación remota + Paquete Dell OptiPlex Micro 7020": 978
+    }
+  }
+}

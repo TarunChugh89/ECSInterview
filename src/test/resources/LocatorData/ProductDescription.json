@@ -1,0 +1,6 @@
+{
+	"addToCart":{
+				"English":"//summary[@aria-label=\"Search\"]",
+				"Español":"//summary[@aria-label=\"Búsqueda\"]"	
+	}
+}
